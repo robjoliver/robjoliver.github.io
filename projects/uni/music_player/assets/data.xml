@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<catalogue>
+
+	<vinyl productID="001">
+
+		<title>Entwine the Threads</title>
+
+		<artist>Circle of Contempt</artist>
+
+		<stock>7</stock>
+
+		<duration>05:04</duration>
+
+		<label>Sumerian Records</label>
+
+		<date>2012</date>
+
+		<thumbnail>thumbnails/cocthumb.jpg</thumbnail>
+
+		<artwork>artwork/cocartwork.jpg</artwork>
+
+		<sample>samples/cocsample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="002">
+
+		<title>El Manana</title>
+
+		<artist>Gorillaz</artist>
+
+		<stock>6</stock>
+
+		<duration>03:50</duration>
+
+		<label>Parlophone</label>
+
+		<date>10/04/2006</date>
+
+		<thumbnail>thumbnails/gorillazthumb.jpg</thumbnail>
+
+		<artwork>artwork/gorillazartwork.jpg</artwork>
+
+		<sample>samples/gorillazsample.mp3</sample>	
+
+	</vinyl>
+
+
+	<vinyl productID="003">
+
+		<title>Internet Friends</title>
+
+		<artist>Knife Party</artist>
+
+		<stock>4</stock>
+
+		<duration>05:01</duration>
+
+		<label>EarStorm</label>
+
+		<date>12/12/2011</date>
+
+		<thumbnail>thumbnails/knifepartythumb.jpg</thumbnail>
+
+		<artwork>artwork/knifepartyartwork.jpg</artwork>
+
+		<sample>samples/knifepartysample.mp3</sample>	
+
+	</vinyl>
+
+
+
+	<vinyl productID="004">
+
+		<title>Stargazer (DJ Shimamura Mix) [feat. Yukacco]</title>
+
+		<artist>P Light</artist>
+
+		<stock>9</stock>
+
+		<duration>05:13</duration>
+
+		<label>Liquicity</label>
+
+		<date>Unknown</date>
+
+		<thumbnail>thumbnails/plightthumb.jpg</thumbnail>
+
+		<artwork>artwork/plightartwork.jpg</artwork>
+
+		<sample>samples/plightsample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="005">
+
+		<title>Ebb and Flow</title>
+
+		<artist>Misery Signals</artist>
+
+		<stock>1</stock>
+
+		<duration>03:28</duration>
+
+		<label>Ferret</label>
+
+		<date>22/07/2008</date>
+
+		<thumbnail>thumbnails/miserysignalsthumb.jpg</thumbnail>
+
+		<artwork>artwork/miserysignalsartwork.jpg</artwork>
+
+		<sample>samples/miserysignalssample.mp3</sample>	
+
+	</vinyl>
+
+
+
+	<vinyl productID="006">
+
+		<title>Sell Out</title>
+
+		<artist>Reel Big Fish</artist>
+
+		<stock>8</stock>
+
+		<duration>03:47</duration>
+
+		<label>Mojo</label>
+
+		<date>13/08/1996</date>
+
+		<thumbnail>thumbnails/reelbigfishthumb.jpg</thumbnail>
+
+		<artwork>artwork/reelbigfishartwork.jpg</artwork>
+
+		<sample>samples/reelbigfishsample.mp3</sample>	
+
+	</vinyl>
+
+
+
+	<vinyl productID="007">
+
+		<title>Waiting Summer</title>
+
+		<artist>Cardmoth</artist>
+
+		<stock>2</stock>
+
+		<duration>04:11</duration>
+
+		<label>Unknown</label>
+
+		<date>Unknown</date>
+
+		<thumbnail>thumbnails/cardmoththumb.jpg</thumbnail>
+
+		<artwork>artwork/cardmothartwork.jpg</artwork>
+
+		<sample>samples/cardmothsample.mp3</sample>	
+
+	</vinyl>
+
+
+	<vinyl productID="008">
+
+		<title>Ending Theme</title>
+
+		<artist>Nobuo Uematsu</artist>
+
+		<stock>5</stock>
+
+		<duration>13:33</duration>
+
+		<label>Square Enix</label>
+
+		<date>Unknown</date>
+
+		<thumbnail>thumbnails/nobuothumb.jpg</thumbnail>
+
+		<artwork>artwork/nobuoartwork.jpg</artwork>
+
+		<sample>samples/nobuosample.mp3</sample>	
+
+	</vinyl>
+
+
+	<vinyl productID="009">
+
+		<title>Inamorata</title>
+
+		<artist>Animals As Leaders</artist>
+
+		<stock>1</stock>
+
+		<duration>06:08</duration>
+
+		<label>Prosthetic</label>
+
+		<date>28/04/2009</date>
+
+		<thumbnail>thumbnails/animalsasleadersthumb.jpg</thumbnail>
+
+		<artwork>artwork/animalsasleadersartwork.jpg</artwork>
+
+		<sample>samples/animalsasleaderssample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="010">
+
+		<title>Astral Body</title>
+
+		<artist>Between the Buried and Me</artist>
+
+		<stock>3</stock>
+
+		<duration>05:02</duration>
+
+		<label>Metal Blade</label>
+
+		<date>09/10/2012</date>
+
+		<thumbnail>thumbnails/btbamthumb.jpg</thumbnail>
+
+		<artwork>artwork/btbamartwork.jpg</artwork>
+
+		<sample>samples/btbamsample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="011">
+
+		<title>Tabitha, Mummy and Me</title>
+
+		<artist>Delilah</artist>
+
+		<stock>10</stock>
+
+		<duration>04:03</duration>
+
+		<label>Atlantic, Warner Music</label>
+
+		<date>30/07/2012</date>
+
+		<thumbnail>thumbnails/delilahthumb.jpg</thumbnail>
+
+		<artwork>artwork/delilahartwork.jpg</artwork>
+
+		<sample>samples/delilahsample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="012">
+
+		<title>You Need Me I Don't Need You</title>
+
+		<artist>Ed Sheeran</artist>
+
+		<stock>1</stock>
+
+		<duration>03:40</duration>
+
+		<label>Atlantic</label>
+
+		<date>09/09/2011</date>
+
+		<thumbnail>thumbnails/edsheeranthumb.jpg</thumbnail>
+
+		<artwork>artwork/edsheeranartwork.jpg</artwork>
+
+		<sample>samples/edsheeransample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="013">
+
+		<title>Silicone Lube</title>
+
+		<artist>Feed Me</artist>
+
+		<stock>12</stock>
+
+		<duration>06:01</duration>
+
+		<label>Mau5trap</label>
+
+		<date>21/02/2011</date>
+
+		<thumbnail>thumbnails/feedmethumb.jpg</thumbnail>
+
+		<artwork>artwork/feedmeartwork.jpg</artwork>
+
+		<sample>samples/feedmesample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="014">
+
+		<title>Cold Shoulders</title>
+
+		<artist>Hacktivist</artist>
+
+		<stock>6</stock>
+
+		<duration>05:38</duration>
+
+		<label>Unknown</label>
+
+		<date>11/12/2012</date>
+
+		<thumbnail>thumbnails/hacktivistthumb.jpg</thumbnail>
+
+		<artwork>artwork/hacktivistartwork.jpg</artwork>
+
+		<sample>samples/hacktivistsample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="015">
+
+		<title>A Song for Kids</title>
+
+		<artist>Miho Hatori</artist>
+
+		<stock>2</stock>
+
+		<duration>03:31</duration>
+
+		<label>Speedstar International, Rykodisc</label>
+
+		<date>21/10/05</date>
+
+		<thumbnail>thumbnails/mihohatorithumb.jpg</thumbnail>
+
+		<artwork>artwork/mihohatoriartwork.jpg</artwork>
+
+		<sample>samples/mihohatorisample.mp3</sample>	
+
+	</vinyl>
+
+	<vinyl productID="016">
+
+		<title>That Boy That Girl</title>
+
+		<artist>Hadouken!</artist>
+
+		<stock>14</stock>
+
+		<duration>03:32</duration>
+
+		<label>Atlantic</label>
+
+		<date>05/05/2008</date>
+
+		<thumbnail>thumbnails/hadoukenthumb.jpg</thumbnail>
+
+		<artwork>artwork/hadoukenartwork.jpg</artwork>
+
+		<sample>samples/hadoukensample.mp3</sample>	
+
+	</vinyl>
+
+
+
+</catalogue>
+
